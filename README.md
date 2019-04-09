@@ -1,1 +1,3 @@
 # showcanonpath
+
+Shows canonical path
